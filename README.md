@@ -1,6 +1,6 @@
 # hello-world
 
-This is the Hello World repository
+This is the Hello World repository.
 
 ### Three Things I Like About Me
 - I am confident
